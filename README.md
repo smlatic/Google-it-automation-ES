@@ -3,7 +3,7 @@
 <br>
 
 
-* This repository is for reference ![In progress](bar-progress.png) 
+* This repository is for reference - Edin Smlatic ![In progress](bar-progress.png) 
 
 * [Crash Course on Python - Certificate](https://coursera.org/share/02cd25a6ba8954d3f8fd55a16b82a2f1)
 
