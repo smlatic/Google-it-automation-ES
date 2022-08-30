@@ -2,9 +2,22 @@
 
 <br>
 
-![In progress](google-it-automation-.jpg)
 
-* This repository is for reference 
+* This repository is for reference ![In progress](bar-progress.png) 
+
+* [Crash Course on Python - Certificate](https://coursera.org/share/02cd25a6ba8954d3f8fd55a16b82a2f1)
+
+* [Using Python to Interact with the Operating System - Certificate](https://coursera.org/share/498bfccd21e7c29a14c6b167d3e42043)
+
+* [Introduction to Git and GitHub - Certificate](https://coursera.org/share/44cbc95895311457118bba95c1e7d144)
+
+* [Troubleshooting and Debugging Techniques - Certificate](https://coursera.org/share/437e40dd46d5746797685062749b681b)
+
+* [Configuration Management and the Cloud - Certificate](https://coursera.org/share/c5965f9ec261dc4920769aed6bc441ba)
+
+* [Automating Real-World Tasks with Python ] ** In progress
+
+
 
 <br>
 
