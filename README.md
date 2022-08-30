@@ -1,9 +1,10 @@
 ## [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-
+![In progress](bar-progress.png) 
 <br>
 
 
-* This repository is for reference ![In progress](bar-progress.png) 
+## Edin Smlatic
+ This repository is for reference
 
 * [Crash Course on Python - Certificate](https://coursera.org/share/02cd25a6ba8954d3f8fd55a16b82a2f1)
 
