@@ -16,7 +16,7 @@
 
 * [Configuration Management and the Cloud - Certificate](https://coursera.org/share/c5965f9ec261dc4920769aed6bc441ba)
 
-* [Automating Real-World Tasks with Python ] ** In progress
+* [Automating Real-World Tasks with Python ] 
 
 
 
